@@ -10,11 +10,10 @@ nav ul{
 }
 
 nav ul li{
-    display:inline-block;
+    display:inline;
     margin: 0 10px;
     height:30px;
-    text-align: center;
-    z-index:1;
+    z-index:999;
 }
 
 nav a{
