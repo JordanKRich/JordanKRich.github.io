@@ -1,0 +1,45 @@
+body{
+    font-family:Arial;
+}
+
+nav ul{
+    list-style-type:none;
+    text-align: center;
+}
+
+nav ul li{
+    display:inline-block;
+    margin: 0 10px;
+}
+
+nav a{
+    text-decoration:none;
+    color:#000;
+    font-size:20px;
+}
+
+#home,#about,#contact{
+    padding: 20px;
+    text-align: center;
+}
+
+#home{
+    background-color: #f1f1f1;
+}
+
+#about{
+    background-color: #f1f1f1;
+}
+
+#contact{
+    background-color: #f1f1f1;
+}
+
+header,footer{
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+main{
+    margin-bottom:20px;
+}
