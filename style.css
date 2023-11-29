@@ -38,6 +38,37 @@ body.home .main-content{
     overflow-y:auto;
 }
 
+.centered-text{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+    z-index: 10;
+}
+
+.scroll-section{
+    width:100%;
+    text-align: center;
+    padding: 50px 0;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.scroll-section.left-center{
+    text-align: left;
+    padding-left: 10%;
+}
+
+.scroll-section.right-center{
+    text-align: right;
+    padding-right: 10%;
+}
+
+.scroll-section.center{
+    text-align: center;
+}
+
 body.about .main-content{
     position:relative;
     min-height: calc(100vh - 30px);
