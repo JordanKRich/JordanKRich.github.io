@@ -27,12 +27,15 @@ nav {
 }
 
 .home-main-content{
-    background-image: url("/images/Jordan-Richardson.jpg");
     position:relative;
     top:60px;
+    min-height: (100vh - 60px);
+    background-image: url("/images/Jordan-Richardson.jpg");
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
+    background-attachment: fixed;
+    overflow-y:auto
 }
 header,footer{
     font-weight:bold;
