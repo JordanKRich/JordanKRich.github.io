@@ -24,7 +24,7 @@ nav a{
 }
 
 body.home{
-    background-image: url('~/images/Jordan-Richardson.jpg')
+    background-image: url('/images/Jordan-Richardson.jpg')
 
 }
 
