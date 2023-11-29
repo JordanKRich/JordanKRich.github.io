@@ -23,7 +23,7 @@ nav a{
     text-align: center;
 }
 
-.home{
+body.index{
     background-image: url('~images/Jordan-Richardson.jpg')
 
 }
