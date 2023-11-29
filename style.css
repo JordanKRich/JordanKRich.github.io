@@ -13,6 +13,8 @@ nav ul li{
     display:inline-block;
     margin: 0 10px;
     position: fixed;
+    top:0;
+    max-width: 100%;
     z-index:999;
 }
 
@@ -35,6 +37,7 @@ body.home .main-content{
     top: 30px;
     min-height: calc(100vh - 30px);
     width:100vw;
+    max-width: 2000px;
     background-image: url("/images/Jordan-Richardson.jpg");
     background-size:cover;
     background-repeat:no-repeat;
