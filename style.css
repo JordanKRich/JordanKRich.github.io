@@ -26,7 +26,31 @@ nav {
     height: 30px;
 }
 
-.main-content.index{
+body.home .main-content{
+    position:relative;
+    top: 30px;
+    min-height: calc(100vh - 30px);
+    background-image: url("/images/Jordan-Richardson.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    overflow-y:auto;
+}
+
+body.about .main-content{
+    position:relative;
+    top: 30px;
+    min-height: calc(100vh - 30px);
+    background-image: url("/images/Jordan-Richardson.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    overflow-y:auto;
+}
+
+body.contact .main-content{
     position:relative;
     top: 30px;
     min-height: calc(100vh - 30px);
