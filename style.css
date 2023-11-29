@@ -40,7 +40,6 @@ body.home .main-content{
 
 body.about .main-content{
     position:relative;
-    top: 30px;
     min-height: calc(100vh - 30px);
     background-image: url("/images/Jordan-Richardson.jpg");
     background-size:cover;
