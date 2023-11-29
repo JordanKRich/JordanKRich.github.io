@@ -23,8 +23,9 @@ nav a{
     text-align: center;
 }
 
-#home{
-    background-color: #f1f1f1;
+.home{
+    background-image: url('~images/Jordan-Richardson.jpg')
+
 }
 
 #about{
