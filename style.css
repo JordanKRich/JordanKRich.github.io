@@ -23,19 +23,19 @@ nav a{
     text-align: center;
 }
 nav {
-    height: 60px;
+    height: 30px;
 }
 
 .main-content.index{
     position:relative;
-    top:60px;
-    min-height: (100vh - 60px);
+    top: 30px;
+    min-height: calc(100vh - 30px);
     background-image: url("/images/Jordan-Richardson.jpg");
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
     background-attachment: fixed;
-    overflow-y:auto
+    overflow-y:auto;
 }
 header,footer{
     font-weight:bold;
