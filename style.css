@@ -22,20 +22,18 @@ nav a{
     padding: 20px;
     text-align: center;
 }
-
-body.home{
-    background-image: url('/images/Jordan-Richardson.jpg')
-
+nav {
+    height: 60px;
 }
 
-#about{
-    background-color: #f1f1f1;
+.home-main-content{
+    background-image: url("/images/Jordan-Richardson.jpg");
+    position:relative;
+    top:60px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
-
-#contact{
-    background-color: #f1f1f1;
-}
-
 header,footer{
     font-weight:bold;
     margin-bottom:10px;
