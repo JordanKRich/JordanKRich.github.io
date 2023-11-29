@@ -12,6 +12,10 @@ nav ul{
 nav ul li{
     display:inline-block;
     margin: 0 10px;
+    position: fixed;
+    top:0;
+    width:100%;
+    z-index:999;
 }
 
 nav a{
@@ -76,7 +80,7 @@ body.home .main-content{
 }
 
 .spacer{
-    height: 100vh;
+    height: 500px;
 }
 
 body.about .main-content{
