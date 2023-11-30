@@ -15,6 +15,12 @@ nav ul{
         z-index: 2001;
     }
 }
+
+@media (max-width: 768px) {
+    .navbar{
+        height:45px;
+    }
+}
 nav a{
     text-decoration:none;
     color:#000;
