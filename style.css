@@ -80,7 +80,7 @@ body.home .main-content{
 .scroll-section.right-center{
     text-align: right;
     padding-right: 50%;
-    right:25px;
+    right:100px;
     margin-right:50%;
 }
 
@@ -106,7 +106,6 @@ body.about .main-content{
 
 body.contact .main-content{
     position:relative;
-    top: 5px;
     min-height: calc(100vh - 30px);
     background-image: url("/images/Jordan-Richardson.jpg");
     background-size:cover;
