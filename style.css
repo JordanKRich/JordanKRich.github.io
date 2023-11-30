@@ -20,7 +20,7 @@ nav ul{
 
 @media (max-width: 768px) {
     .navbar{
-        height:45px;
+        height: 47px;
         z-index:2001
     }
 }
@@ -56,6 +56,7 @@ body.home .main-content{
 
 @media (max-width: 768px) {
     body.home .main-content{
+        position:relative;
         background-size:contain;
         background-attachment: scroll;
         background-position:top center;
