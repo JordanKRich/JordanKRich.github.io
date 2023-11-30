@@ -123,3 +123,7 @@ header,footer{
 main{
     margin-bottom:20px;
 }
+
+.SMspacer{
+    height: 15px;
+}
