@@ -58,7 +58,7 @@ body.home .main-content{
 @media (max-width: 768px) {
     body.home .main-content{
         position:static;
-        background-size:cover;
+        background-size:auto;
         background-attachment:scroll;
         background-position:top center;
     }
