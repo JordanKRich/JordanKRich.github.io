@@ -58,7 +58,7 @@ body.home .main-content{
     body.home .main-content{
         position:static;
         background-size:cover;
-        background-attachment: scroll;
+        background-attachment:scroll;
         background-position:top center;
     }
 }
