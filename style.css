@@ -47,9 +47,10 @@ body.home .main-content{
     top:3px;
     max-width:100vw;
     background-image: url("/images/Richardson-Jordan.jpg");
-    background-size:cover;
+    background-size:contain;
     background-repeat:no-repeat;
     background-position:center;
+    background-attachment: fixed;
     overflow-y:auto;
     overflow-x:hidden
 }
