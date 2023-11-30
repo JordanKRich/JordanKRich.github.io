@@ -8,12 +8,14 @@ nav ul{
     list-style-type:none;
     text-align: center;
     z-index: 1000;
+    padding:0;
+    margin:0;
+    width:100%;
 }
 
 nav ul li{
-    display:inline;
+    display:inline-block;
     margin: 0 10px;
-    height:30px;
     z-index:1000;
 }
 
@@ -30,6 +32,10 @@ nav a{
 nav {
     height: 30px;
     position:fixed;
+    top: 0;
+    width:100%;
+    background-color: #fff;
+    z-index: 2000;
 }
 
 body.home .main-content{
