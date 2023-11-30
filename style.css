@@ -32,7 +32,7 @@ nav a{
 nav {
     height: 40px;
     position:fixed;
-    top: 10px;
+    top:0px;
     width:100%;
     background-color: #fff;
     z-index: 2000;
@@ -79,8 +79,9 @@ body.home .main-content{
 
 .scroll-section.right-center{
     text-align: right;
-    padding-right: 30%;
-    margin-right:20%;
+    padding-right: 50%;
+    right:25px;
+    margin-right:50%;
 }
 
 .scroll-section.center{
