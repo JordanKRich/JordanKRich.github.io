@@ -19,7 +19,7 @@ nav ul{
 
 @media (max-width: 768px) {
     .navbar{
-        height:45px;
+        height:2px;
         z-index:2001
     }
 }
