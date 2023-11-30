@@ -39,8 +39,8 @@ body.home .main-content{
 
 @media (max-width: 768px) {
     body.home .main-content{
-        background-size:contain;
-        background-attachment: scroll;
+        background-size:cover;
+        background-attachment: fixed;
     }
 }
 
