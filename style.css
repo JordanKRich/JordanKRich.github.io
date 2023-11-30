@@ -55,7 +55,6 @@ body.home .main-content{
 
 @media (max-width: 768px) {
     body.home .main-content{
-        top:45px;
         background-size:contain;
         background-attachment: scroll;
         background-position:top center;
