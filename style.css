@@ -47,7 +47,7 @@ body.home .main-content{
     top:3px;
     max-width:100vw;
     background-image: url("/images/Richardson-Jordan.jpg");
-    background-size: cover;
+    background-size: auto;
     background-repeat:no-repeat;
     background-position:center 49px;
     background-attachment: scroll;
@@ -89,7 +89,7 @@ body.home .main-content{
 }
 
 .spacer{
-    height: 750px;
+    height: 300px;
 }
 
 body.about .main-content{
