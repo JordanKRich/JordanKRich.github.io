@@ -45,8 +45,10 @@ body.home .main-content{
     position:relative;
     min-height: calc(100vh - 49px);
     top:3px;
+    width:1309px;
+    height:1543.98px;
     max-width:100vw;
-    background-image: url("/images/Richardson-Jordan.jpg"), url("https://wallpapers.com/images/hd/2k-background-a784iziwvcwga13i.jpg");
+    background-image: url("/images/Richardson-Jordan.jpg"), url("https://wallpaperaccess.com/full/2725959.jpg");
     background-size: auto, cover;
     background-repeat:no-repeat, no-repeat;
     background-position:center top, center top;
