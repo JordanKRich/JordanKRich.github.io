@@ -1,0 +1,79 @@
+body{
+    font-family:Arial;
+    margin:0;
+    padding:0;
+}
+
+nav ul{
+    list-style-type:none;
+}
+
+@media (max-width: 768px) {
+    .navbar-collapse{
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 5px;
+        padding: 10px;
+        z-index: 2001;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar{
+        height: 49px;
+        z-index:2001
+    }
+}
+nav a{
+    text-decoration:none;
+    color:#000;
+    font-size:20px;
+}
+
+#home,#about,#contact{
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    height: 49px;
+    background-color: #fff;
+    z-index: 2000;
+}
+
+.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10 {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+body.home .main-content {
+    /* Existing styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px; /* Add some top padding to center the cards */
+}
+
+@media (max-width: 768px) {
+    body.home .main-content {
+        /* Existing styles */
+        padding-top: 0; /* Remove top padding on smaller screens */
+    }
+}
+
+.container {
+    /* Existing styles */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10 {
+    width: 300px;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
