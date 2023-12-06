@@ -126,7 +126,7 @@ body.home .main-content {
 
 .card-img-top-github {
     max-width:100px;
-    align-self:center;
+    text-align: center;
     height:auto;
 }
 
