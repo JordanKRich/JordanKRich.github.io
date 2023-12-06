@@ -77,6 +77,10 @@ body.home .main-content {
     max-width: 100%;
 }
 
+.card-title{
+    text-align: center;
+}
+
 .mini-resume{
     max-width:100px;
     max-height:50px;
@@ -118,6 +122,7 @@ body.home .main-content {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    z-index: 2;
 }
 .close-button {
     position: absolute;
