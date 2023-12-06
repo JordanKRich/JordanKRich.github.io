@@ -178,7 +178,12 @@ body.home .main-content {
     position: relative;
     margin: auto;
 }
+.myslides {
+    display: none;
+    max-width: 258px;
+    max-height: 270px;
 
+}
 .slide-image {
     display: none;
     max-width: 258px;
