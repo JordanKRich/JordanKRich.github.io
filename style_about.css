@@ -188,7 +188,8 @@ body.home .main-content {
 .col{
     max-width: 380px;
     max-height: 276px;
-
+    position: relative;
+    margin: auto;
 }
 .slide-image {
     display: none;
