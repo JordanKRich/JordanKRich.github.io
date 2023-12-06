@@ -177,6 +177,14 @@ body.home .main-content {
     cursor: pointer;
 }
 
+.card-img-top-linkedin {
+    max-width:100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height:auto;
+}
+
 .card-img-top-github {
     max-width:100px;
     margin-left: auto;
@@ -185,7 +193,7 @@ body.home .main-content {
     height:auto;
 }
 
-.card-body-github, .card-body-resume {
+.card-body-github, .card-body-resume, .card-body-linkedin {
     text-align: center;
 }
 
