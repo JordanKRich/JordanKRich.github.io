@@ -79,7 +79,7 @@ body.home .main-content {
     max-width: 100%;
 }
 
-.card-4, .card-5, .card-6, .card-8, .card-7, .card-9 {
+.card-4, .card-5, .card-6, .card-7, .card-8, .card-9 {
     max-width: 300px;
     width: 300px;
     flex-grow: 1;
@@ -136,26 +136,6 @@ body.home .main-content {
     z-index: 3000;
 }
 
-.card-8{
-    background-image: url"https://www.creativefabrica.com/wp-content/uploads/2022/05/17/Futuristic-Red-Black-Background-Design-Graphics-30694681-1-1-580x371.jpg";
-    background-position: center;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    z-index: 2;
-
-}
-
-.card-body-background {
-    background-image: url"https://www.creativefabrica.com/wp-content/uploads/2022/05/17/Futuristic-Red-Black-Background-Design-Graphics-30694681-1-1-580x371.jpg";
-    background-position: center;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    z-index: 2;
-}
 .close-button {
     position: absolute;
     top: 10px;
@@ -199,10 +179,10 @@ body.home .main-content {
     margin: auto;
 }
 
-.mySlides {
+.slide-image {
     display: none;
-    max-width: 300px;
-    max-height: 374px;
+    max-width: 258px;
+    max-height: 270px;
 }
 
 .fade {
