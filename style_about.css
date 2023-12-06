@@ -178,7 +178,12 @@ body.home .main-content {
     position: relative;
     margin: auto;
 }
-
+.col-pictures, .col-youtube {
+    max-width: 380px;
+    max-height: 276px;
+    position: relative;
+    margin: auto;
+}
 .slide-image {
     display: none;
     max-width: 258px;
