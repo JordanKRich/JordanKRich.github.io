@@ -74,11 +74,18 @@ body.home .main-content {
 .card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10 {
     width: 300px;
     flex-grow: 1;
+    height: 256px;
+    max-height:300px;
     max-width: 100%;
 }
 
 .card-title{
     text-align: center;
+}
+.btn .btn-primary .view-resume{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .mini-resume{
@@ -107,6 +114,7 @@ body.home .main-content {
     max-width: 80%;
     max-height: 80%;
 }
+
 
 .card-title-skydiving{
     font-size: 20px;
