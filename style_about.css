@@ -78,8 +78,8 @@ body.home .main-content {
 }
 
 .mini-resume{
-    width:100px;
-    height:auto;
+    max-width:100px;
+    max-height:50px;
 }
 
 .overlay {
