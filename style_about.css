@@ -190,6 +190,8 @@ body.home .main-content {
     display: none;
     max-width: 258px;
     max-height: 270px;
+    position: relative;
+    margin: auto;
 }
 
 .fade {
