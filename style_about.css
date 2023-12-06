@@ -192,12 +192,15 @@ body.home .main-content {
 
 .slideshow-container {
     max-width: 300px;
+    max-height: 374px;
     position: relative;
     margin: auto;
 }
 
 .mySlides {
     display: none;
+    max-width: 300px;
+    max-height: 374px;
 }
 
 .fade {
