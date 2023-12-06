@@ -80,6 +80,9 @@ body.home .main-content {
 .mini-resume{
     max-width:100px;
     max-height:50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .overlay {
@@ -112,6 +115,9 @@ body.home .main-content {
     background-image: url"https://www.creativefabrica.com/wp-content/uploads/2022/05/17/Futuristic-Red-Black-Background-Design-Graphics-30694681-1-1-580x371.jpg";
     background-position: center;
     background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .close-button {
     position: absolute;
@@ -124,7 +130,9 @@ body.home .main-content {
 
 .card-img-top-github {
     max-width:100px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     height:auto;
 }
 
