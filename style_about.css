@@ -184,6 +184,12 @@ body.home .main-content {
     max-height: 270px;
 
 }
+
+.col{
+    max-width: 380px;
+    max-height: 276px;
+
+}
 .slide-image {
     display: none;
     max-width: 258px;
