@@ -179,8 +179,8 @@ body.home .main-content {
     margin: auto;
 }
 .col-pictures, .col-youtube {
-    max-width: 380px;
-    max-height: 276px;
+    max-width: 370px;
+    max-height: 394px;
     position: relative;
     margin: auto;
 }
