@@ -71,12 +71,10 @@ body.home .main-content {
     justify-content: center;
 }
 
-.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10:hover {
+.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10 {
     width: 300px;
     flex-grow: 1;
     max-width: 100%;
-    transform: scale(1.1);
-    transition: transform 0.5s;
 }
 
 .mini-resume{
@@ -132,4 +130,9 @@ body.home .main-content {
 
 .card-body-github {
     text-align: center;
+}
+
+.card-1:hover, .card-2:hover, .card-3:hover, .card-4:hover, .card-5:hover, .card-6:hover, .card-7:hover, .card-8:hover, .card-9:hover, .card-10:hover{
+    transform: scale(1.1);
+    transition: transform 0.2s;
 }
