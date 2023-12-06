@@ -11,6 +11,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     closeButton.addEventListener('click', function () {
-        overlay.style.display = 'none';
+        overlay.style.display = 'block';
     });
 });
