@@ -71,12 +71,25 @@ body.home .main-content {
     justify-content: center;
 }
 
-.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10 {
+.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-5, .card-6, .card-7, .card-9, .card-10 {
     width: 300px;
     flex-grow: 1;
     height: 256px;
     max-height:300px;
     max-width: 100%;
+}
+
+.card-8 {
+    width: 300px;
+    flex-grow: 1;
+    height:auto;
+    max-width: 100%;
+    background-image: url"https://www.creativefabrica.com/wp-content/uploads/2022/05/17/Futuristic-Red-Black-Background-Design-Graphics-30694681-1-1-580x371.jpg";
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .card-title{
