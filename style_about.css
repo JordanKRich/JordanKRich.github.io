@@ -178,20 +178,17 @@ body.home .main-content {
     position: relative;
     margin: auto;
 }
+.myslides {
+    display: none;
+    max-width: 258px;
+    max-height: 270px;
 
-
-.col{
-    max-width: 380px;
-    max-height: 276px;
-    position: relative;
-    margin: auto;
 }
+
 .slide-image {
     display: none;
     max-width: 258px;
     max-height: 270px;
-    position: relative;
-    margin: auto;
 }
 
 .fade {
