@@ -10,22 +10,6 @@ nav ul{
 .main-content{
     background-color:rgb(55, 142, 229);
 }
-@media (max-width: 768px) {
-    .navbar-collapse{
-        background-color: #fff;
-        border: 1px solid #000;
-        border-radius: 5px;
-        padding: 10px;
-        z-index: 2001;
-    }
-}
-
-@media (max-width: 768px) {
-    .navbar{
-        height: 49px;
-        z-index:2001
-    }
-}
 
 nav a{
     text-decoration:none;
@@ -58,12 +42,6 @@ body.home .main-content {
     flex-direction: column;
     align-items: center;
     padding-top: 20px;
-}
-
-@media (max-width: 768px) {
-    body.home .main-content {
-        padding-top: 0;
-    }
 }
 
 .container {
@@ -245,5 +223,21 @@ body.home .main-content {
         font-size: 1em; 
     }
 
+    body.home .main-content {
+        padding-top: 0;
+    }
+
+    .navbar{
+        height: 49px;
+        z-index:2001
+    }
+
+    .navbar-collapse{
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 5px;
+        padding: 10px;
+        z-index: 2001;
+    }
 
 }
