@@ -188,6 +188,7 @@ body.home .main-content {
     display: none;
     max-width: 258px;
     max-height: 270px;
+    z-index: 3005;
 }
 
 .fade {
