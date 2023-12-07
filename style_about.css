@@ -162,6 +162,9 @@ body.home .main-content {
     display: block;
     height:auto;
 }
+.card-body-github, .card-body-linkedin, .card-body-resume, .card-body {
+    overflow: hidden;
+}
 .card-text-skydiving {
     text-align: center;
 }
