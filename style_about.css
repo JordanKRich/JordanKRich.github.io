@@ -74,7 +74,7 @@ body.home .main-content {
 }
 
 .card-10{
-    width:900px;
+    width:930px;
     height: 256px;
     flex-grow:1;
     max-width:900px;
@@ -195,8 +195,8 @@ body.home .main-content {
     z-index: 3005;
 }
 .col-about{
-    max-width: 900;
-    max-height: 256px;
+    max-width: 960px;
+    max-height: 270px;
     position: relative;
     margin: auto;
     margin-top:auto;
