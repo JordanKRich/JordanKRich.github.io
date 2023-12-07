@@ -73,7 +73,14 @@ body.home .main-content {
     justify-content: center;
 }
 
-.card-1, .card-2, .card-3, .card-10 {
+.card-10{
+    width:900px;
+    height: 256px;
+    flex-grow:1;
+    max-width:900px;
+    max-height:256px;
+}
+.card-1, .card-2, .card-3 {
     width: 300px;
     flex-grow: 1;
     height: 256px;
