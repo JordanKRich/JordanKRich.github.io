@@ -13,6 +13,7 @@ nav ul{
     list-style-type:none;
 }
 .flex-container{
+    background-color: rgb(55, 142, 229);
     display:flex;
     justify-content:center;
     align-items:center;
