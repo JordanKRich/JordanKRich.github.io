@@ -183,6 +183,7 @@ body.home .main-content {
     max-height: 394px;
     position: relative;
     margin: auto;
+    margin-top:auto;
 }
 .slide-image {
     display: none;
