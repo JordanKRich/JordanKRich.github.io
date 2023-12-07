@@ -7,7 +7,9 @@ body{
 nav ul{
     list-style-type:none;
 }
-
+.main-content{
+    background-color:gray;
+}
 @media (max-width: 768px) {
     .navbar-collapse{
         background-color: #fff;
