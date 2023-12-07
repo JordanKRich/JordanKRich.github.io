@@ -216,6 +216,10 @@ body.home .main-content {
         max-width: none;
         margin: 10px 0;
     }
+    .col-about{
+        max-width: none;
+        margin: 10px 0;
+    }
 
     .mini-resume, .card-img-top-github, .card-img-top-linkedin {
         width: 100%; 

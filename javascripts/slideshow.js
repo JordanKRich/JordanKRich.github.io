@@ -16,5 +16,5 @@ function showSlides() {
     console.log("Current slide index: " + slideIndex)
     slides[slideIndex].style.display = "block";
     slideIndex++;
-    setTimeout(showSlides, 5000);
+    setTimeout(showSlides, 3000);
 }
