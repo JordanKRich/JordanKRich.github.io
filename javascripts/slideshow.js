@@ -1,10 +1,6 @@
 let slideIndex = 0;
 showSlides();
 
-function plusSlides(n) {
-    showSlides(slideIndex += n);
-}
-
 function showSlides() {
     let i;
     const slides = document.getElementsByClassName("slide-image");
@@ -17,6 +13,8 @@ function showSlides() {
     for (i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
     }
+    console.log("Current slide index: " + slideIndex)
     slides[slideIndex].style.display = "block";
     slideIndex++;
+    setTimeout(showSlides, 5000);
 }
