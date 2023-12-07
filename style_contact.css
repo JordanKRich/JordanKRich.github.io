@@ -1,14 +1,46 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4; 
-    color: #333;
-    line-height: 1.6;
+body{
+    font-family:Arial;
+    margin:0;
+    padding:0;
 }
 
-.navbar {
-    margin-bottom: 20px;
+nav ul{
+    list-style-type:none;
+}
+.main-content{
+    background-color:rgb(55, 142, 229);
+}
+@media (max-width: 768px) {
+    .navbar-collapse{
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 5px;
+        padding: 10px;
+        z-index: 2001;
+    }
 }
 
+@media (max-width: 768px) {
+    .navbar{
+        height: 49px;
+        z-index:2001
+    }
+}
+nav a{
+    text-decoration:none;
+    color:#000;
+    font-size:20px;
+}
+
+#home,#about,#contact{
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    height: 49px;
+    background-color: #fff;
+    z-index: 2000;
+}
 .contact-container {
     background-color: #fff; 
     padding: 20px; 
