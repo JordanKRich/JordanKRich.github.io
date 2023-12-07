@@ -178,7 +178,7 @@ body.home .main-content {
     position: relative;
     margin: auto;
 }
-.col-pictures, .col-youtube {
+.col-pictures, .col-youtube, .col-unset {
     max-width: 300px;
     max-height: 394px;
     position: relative;
