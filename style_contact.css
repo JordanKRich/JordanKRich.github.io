@@ -12,8 +12,16 @@ body{
 nav ul{
     list-style-type:none;
 }
+.flex-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
 .container .contact-container{
     background-color:rgb(55, 142, 229);
+    position: relative;
+    margin:auto;
 }
 @media (max-width: 768px) {
     .navbar-collapse{
