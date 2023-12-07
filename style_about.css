@@ -180,7 +180,7 @@ body.home .main-content {
 }
 .col-pictures, .col-youtube, .col-unset {
     max-width: 300px;
-    max-height: 394px;
+    max-height: 374px;
     position: relative;
     margin: auto;
 }
