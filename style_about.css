@@ -222,6 +222,8 @@ body.home .main-content {
 
     .card-body {
         padding: 15px;
+        height:auto;
+        width:auto;
     }
 
     img{
