@@ -7,7 +7,7 @@ body{
 nav ul{
     list-style-type:none;
 }
-.main-content{
+.container .contact-container{
     background-color:rgb(55, 142, 229);
 }
 @media (max-width: 768px) {

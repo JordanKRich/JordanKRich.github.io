@@ -26,6 +26,7 @@ nav ul{
         z-index:2001
     }
 }
+
 nav a{
     text-decoration:none;
     color:#000;
@@ -207,6 +208,7 @@ body.home .main-content {
 @media (max-width: 768px) {
     .card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-7, .card-8, .card-9, .card-10 {
         width: 100%;
+        max-width: none;
         height: auto;
     }
 
@@ -216,7 +218,7 @@ body.home .main-content {
     }
 
     .mini-resume, .card-img-top-github, .card-img-top-linkedin {
-        width: 50%; 
+        width: 100%; 
         margin: 0 auto; 
     }
 
@@ -225,5 +227,5 @@ body.home .main-content {
         font-size: 1em; 
     }
 
-    
+
 }
