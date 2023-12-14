@@ -175,13 +175,7 @@ body.home .main-content {
     max-height: 330px;
     z-index: 3005;
 }
-.col-about{
-    max-width: 320px;
-    max-height: 394px;
-    position: center;
-    margin: auto;
-    margin-top:auto;
-}
+
 .card-text-photos{
     text-align: center;
 }
