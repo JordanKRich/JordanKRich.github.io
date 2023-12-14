@@ -176,9 +176,9 @@ body.home .main-content {
     z-index: 3005;
 }
 .col-about{
-    max-width: 960px;
-    max-height: 270px;
-    position: relative;
+    max-width: 320px;
+    max-height: 394px;
+    position: center;
     margin: auto;
     margin-top:auto;
 }
