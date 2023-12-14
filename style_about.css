@@ -217,8 +217,8 @@ body.home .main-content {
         height: auto;
     }
     .col-about{
-        max-width: none;
-        margin: 10px 0;
+        flex:0 0 100%;
+        max-width: 100%;
     }
 
     .mini-resume, .card-img-top-github, .card-img-top-linkedin {
