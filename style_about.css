@@ -101,7 +101,8 @@ body.home .main-content {
 
 .resume-overlay {
     max-width: 80%;
-    max-height: 80%;
+    height: auto;
+    object-fit: contain;
     display: block;
     margin: 0 auto;
 }
