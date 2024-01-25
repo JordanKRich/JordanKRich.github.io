@@ -101,9 +101,10 @@ body.home .main-content {
 
 .resume-overlay {
     max-width: 80%;
-    height: 60%;
+    height: 80%;
     display: block;
     margin: 0 auto;
+    overflow-y: auto;
 }
 .close-button {
     position: absolute;
