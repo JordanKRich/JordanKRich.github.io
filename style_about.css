@@ -86,7 +86,7 @@ body.home .main-content {
 }
 
 .overlay {
-    display: flex;
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
@@ -96,7 +96,6 @@ body.home .main-content {
     z-index: 3000;
     align-items: center;
     justify-content: center;
-    overflow:hidden
 }
 
 
@@ -105,7 +104,7 @@ body.home .main-content {
     height: 80%;
     display: block;
     margin: 0 auto;
-    overflow-y: auto;
+    overflow-y:scroll;
 }
 .close-button {
     position: absolute;
