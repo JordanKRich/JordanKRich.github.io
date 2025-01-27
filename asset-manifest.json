@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44a189a9.css",
+    "main.js": "/static/js/main.51f24c09.js",
+    "static/media/IMG_8733.JPEG": "/static/media/IMG_8733.203930dc602b2103d463.JPEG",
+    "static/media/IMG_8762.jpg": "/static/media/IMG_8762.2072e5d50366d5e1b8af.jpg",
+    "static/media/IMG_2083.jpg": "/static/media/IMG_2083.ef304aa3227b318d8ec7.jpg",
+    "static/media/IMG_0078.JPG": "/static/media/IMG_0078.e93ae256bbded5538d8f.JPG",
+    "static/media/IMG_0063.JPG": "/static/media/IMG_0063.104fcdfbcba0cd0f0b17.JPG",
+    "static/media/11BD2BEC-EDF2-47A2-A302-C162B2615E59.JPG": "/static/media/11BD2BEC-EDF2-47A2-A302-C162B2615E59.c35122f1c81b51b745d4.JPG",
+    "static/media/B678C537-4637-433E-9EBC-05AB9F6264AC.JPG": "/static/media/B678C537-4637-433E-9EBC-05AB9F6264AC.e71868327b9506fb55d2.JPG",
+    "static/media/2BF01F52-EBCC-45CA-8312-5D5B2FC26723.JPG": "/static/media/2BF01F52-EBCC-45CA-8312-5D5B2FC26723.5e6816c44f8a2ea31263.JPG",
+    "static/media/D1D970BB-B179-45C4-8A49-8E6B7765EDA6.JPG": "/static/media/D1D970BB-B179-45C4-8A49-8E6B7765EDA6.5a5f92de7c34034ee2a0.JPG",
+    "static/media/IMG_3940.JPG": "/static/media/IMG_3940.3671ce00ae9540767ca2.JPG",
+    "static/media/Jordans Offical Resume.pdf": "/static/media/Jordans Offical Resume.ab45bc5c88a8d87d0ddc.pdf",
+    "static/media/Official_Resume.png": "/static/media/Official_Resume.982f1a8346d509994a26.png",
+    "index.html": "/index.html",
+    "main.44a189a9.css.map": "/static/css/main.44a189a9.css.map",
+    "main.51f24c09.js.map": "/static/js/main.51f24c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a189a9.css",
+    "static/js/main.51f24c09.js"
+  ]
+}
