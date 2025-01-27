@@ -218,11 +218,13 @@ function About() {
                 <div className="card-body-completed-projects">
                   <h5 className="card-title">Completed Projects</h5>
                   <ul>
-                    <li>Real-time stock display utilizing Alpaca API</li>
+                    <li>Real-time stock display</li>
                     <li>TSP Solver with Genetic Algorithms &amp; Wisdom of Crowds</li>
                     <li>First Person Shooter in Unity</li>
-                    <li>2D Artillery game in Unity</li>
                     <li>Student ID swiping application for UofL</li>
+                    <li>Smart Dice (IoT) to read dice output to Discord</li>
+                    <li>Personal Website for skill advertisement</li>
+                    <li>Web Scraping light novels into personal DB</li>
                   </ul>
                 </div>
               </div>
@@ -234,13 +236,17 @@ function About() {
                   <h5 className="card-title">Languages Ranked</h5>
                   <ul>
                     <li>Python</li>
-                    <li>C++</li>
+                    <li>PERN Stack</li>
+                    <li>Javascript</li>
+                    <li>Html &amp; CSS</li>
                     <li>SQL</li>
+                    <li>C++</li>
+                    <li>Kotlin</li>
                     <li>C#</li>
                     <li>Rust</li>
                     <li>Java</li>
-                    <li>Html &amp; CSS</li>
-                    <li>Javascript</li>
+                    <li>Swift</li>
+                    <li>Go</li>
                   </ul>
                 </div>
               </div>
@@ -251,14 +257,14 @@ function About() {
                 <div className="card-body-background">
                   <h5 className="card-title">My Background-Computer Science</h5>
                   <p className="card-text">
-                    I have completed one internship as a Data Science Intern specializing in Python and SQL.
+                    I have completed one internship as a Data Science Intern at Traqline specializing in Python and SQL.
                   </p>
                   <p className="card-text">
                     We rewrote an antiquated process in Python using SQL wrappers,
                     verifying our data against previous data to an exact standard.
                   </p>
                   <p className="card-text">
-                    I am currently looking for my next internship!
+                    I completed another internship in a Help Desk role at Steel Technologies, expanding my basic computer skills and buisness communication. I am now full time as a Software Engineer!
                   </p>
                 </div>
               </div>
@@ -269,14 +275,15 @@ function About() {
                 <div className="card-body-current-projects">
                   <h5 className="card-title">Current Projects</h5>
                   <ul>
-                    <li>Smart Dice (IoT) to read dice input</li>
-                    <li>Personal Website</li>
-                    <li>Speech to text (Whisper API) with ML matching</li>
+                    <li>RAG Fusion large document chatbot</li>
+                    <li>Locally host DeepSeek on home computer</li>
+                    <li>Train my own story writing chatbot</li>
+                    <li>Build an IOS Idle Game</li>
+                    <li>Further networking skills, possibly through certification</li>
                   </ul>
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>

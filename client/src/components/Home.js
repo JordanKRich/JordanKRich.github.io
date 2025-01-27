@@ -7,7 +7,7 @@ function Home() {
       <div className="home-content">
         <h1 className="home-title">Jordan Richardson</h1>
         <p className="home-subtitle">
-          An aspiring Computer Science student seeking opportunities to grow
+          An aspiring Computer Science graduate seeking opportunities to grow
         </p>
 
         <p className="home-info">
