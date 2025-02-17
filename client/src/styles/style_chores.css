@@ -1,0 +1,69 @@
+.chores {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.chores h2 {
+  margin-bottom: 20px;
+}
+
+.chores-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chores-list li {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 10px;
+  flex: 1 1 calc(50% - 20px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.chores-list li.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.chores input[type="text"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.chores button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.chores button:hover {
+  background-color: #0056b3;
+}
+
+.chores .react-datepicker-wrapper {
+  margin-bottom: 10px;
+}
+
+.chores select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
