@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   const handleNavItemClick = () => {
@@ -39,6 +39,11 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="/contact" onClick={handleNavItemClick}>
+              Contact
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/chores" onClick={handleNavItemClick}>
               Contact
             </Link>
           </li>
