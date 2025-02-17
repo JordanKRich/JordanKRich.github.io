@@ -44,7 +44,7 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="/chores" onClick={handleNavItemClick}>
-              Contact
+              Chores
             </Link>
           </li>
         </ul>
