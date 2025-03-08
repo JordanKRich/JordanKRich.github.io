@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.52ff2310.css",
-    "main.js": "/static/js/main.1524afd5.js",
+    "main.css": "/static/css/main.44a189a9.css",
+    "main.js": "/static/js/main.7b678cd5.js",
     "static/media/IMG_8733.JPEG": "/static/media/IMG_8733.203930dc602b2103d463.JPEG",
     "static/media/IMG_8762.jpg": "/static/media/IMG_8762.2072e5d50366d5e1b8af.jpg",
     "static/media/IMG_2083.jpg": "/static/media/IMG_2083.ef304aa3227b318d8ec7.jpg",
@@ -15,11 +15,11 @@
     "static/media/Jordans Offical Resume.pdf": "/static/media/Jordans Offical Resume.ab45bc5c88a8d87d0ddc.pdf",
     "static/media/Official_Resume.png": "/static/media/Official_Resume.982f1a8346d509994a26.png",
     "index.html": "/index.html",
-    "main.52ff2310.css.map": "/static/css/main.52ff2310.css.map",
-    "main.1524afd5.js.map": "/static/js/main.1524afd5.js.map"
+    "main.44a189a9.css.map": "/static/css/main.44a189a9.css.map",
+    "main.7b678cd5.js.map": "/static/js/main.7b678cd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.52ff2310.css",
-    "static/js/main.1524afd5.js"
+    "static/css/main.44a189a9.css",
+    "static/js/main.7b678cd5.js"
   ]
 }
